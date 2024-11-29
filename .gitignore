@@ -1,0 +1,37 @@
+# Compiled source
+*.class
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+
+# Maven
+target/
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.apt_generated/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lombok generated files
+lombok.config.delombok/
